@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "lint:css": "stylelint example.css"
+  },
+  "devDependencies": {
+    "stylelint": "^14.5.3",
+    "stylelint-config-drupal": "^2.0.0"
+  }
+}
